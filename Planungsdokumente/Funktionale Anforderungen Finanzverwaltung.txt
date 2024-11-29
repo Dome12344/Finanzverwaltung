@@ -1,0 +1,6 @@
+Funktionale Anforderungen für die Finanzverwaltung
+1.Es soll möglich sein sich ins System einzuloggen mit einen Profil. (Stunde 8)
+2.Es soll möglich sein Auszuwählen welche Aktion man machen kann. (Stunde 10)
+3.Es soll möglich sein die Einnahmen, Ausgaben  und Budget einzugeben und Änderungen am Budget zu machen. (Stunden 15)
+4.Desweiteren soll es möglich sein den Gewinn, Verlust und Rest des Budget zu berechnen. (Stunden 20)
+5.Man soll die Finanz einsagen (Gesamteinnahmen, Gesamtausgaben, Budget und Gewinn/Verlust/Rest) anzeigen zu lasen. (Stunden 25)

@@ -1,0 +1,58 @@
+E:\Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.exe
+E:\Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.deps.json
+E:\Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.runtimeconfig.json
+E:\Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.dll
+E:\Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.pdb
+E:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.csproj.AssemblyReference.cache
+E:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.AssemblyInfoInputs.cache
+E:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.AssemblyInfo.cs
+E:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.csproj.CoreCompileInputs.cache
+E:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.dll
+E:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\refint\Finanzverwaltung.dll
+E:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.pdb
+E:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.genruntimeconfig.cache
+E:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\ref\Finanzverwaltung.dll
+F:\Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.exe
+F:\Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.deps.json
+F:\Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.runtimeconfig.json
+F:\Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.dll
+F:\Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.pdb
+F:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.AssemblyInfoInputs.cache
+F:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.AssemblyInfo.cs
+F:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.csproj.CoreCompileInputs.cache
+F:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.dll
+F:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\refint\Finanzverwaltung.dll
+F:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.pdb
+F:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.genruntimeconfig.cache
+F:\Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\ref\Finanzverwaltung.dll
+E:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.exe
+E:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.deps.json
+E:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.runtimeconfig.json
+E:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.dll
+E:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.pdb
+E:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+E:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.AssemblyInfoInputs.cache
+E:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.AssemblyInfo.cs
+E:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.csproj.CoreCompileInputs.cache
+E:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.dll
+E:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\refint\Finanzverwaltung.dll
+E:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.pdb
+E:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.genruntimeconfig.cache
+E:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\ref\Finanzverwaltung.dll
+D:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.exe
+D:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.deps.json
+D:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.runtimeconfig.json
+D:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.dll
+D:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\bin\Debug\net6.0\Finanzverwaltung.pdb
+D:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.csproj.AssemblyReference.cache
+D:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+D:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.AssemblyInfoInputs.cache
+D:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.AssemblyInfo.cs
+D:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.csproj.CoreCompileInputs.cache
+D:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.dll
+D:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\refint\Finanzverwaltung.dll
+D:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.pdb
+D:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\Finanzverwaltung.genruntimeconfig.cache
+D:\Finazverwaltungs Projekt\Finanzverwaltung\Finanzverwaltung\obj\Debug\net6.0\ref\Finanzverwaltung.dll
