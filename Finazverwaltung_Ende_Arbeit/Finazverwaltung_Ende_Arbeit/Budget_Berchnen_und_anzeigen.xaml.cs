@@ -23,5 +23,22 @@ namespace Finazverwaltung_Ende_Arbeit
         {
             InitializeComponent();
         }
+
+        private void zurueck_Click(object sender, RoutedEventArgs e)
+        {
+            Auswalbildschirm auswalbildschirm = new Auswalbildschirm();
+            this.Close();
+            auswalbildschirm.Show();
+        }
+
+        private void budegt_aenderung_speichern_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void budget_berechnen_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

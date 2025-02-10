@@ -20,8 +20,8 @@
         <Label Content="Anmeldung in die Finazverwaltung" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" FontStyle="Italic"/>
         <Label Content="Nutzername:" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
         <Label Content="Passwort:" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-        <TextBox Grid.Row="1" Grid.Column="0" x:Name="nutzername" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.ColumnSpan="2" Width="550" Margin="10 10"/>
-        <PasswordBox Grid.Row="2" Grid.Column="0" x:Name="password" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.ColumnSpan="2" Width="550" Margin="10 10"/>
+        <TextBox Grid.Row="1" Grid.Column="0" x:Name="nutzername" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.ColumnSpan="2" Width="500" Margin="10 10"/>
+        <PasswordBox Grid.Row="2" Grid.Column="0" x:Name="password" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.ColumnSpan="2" Width="500" Margin="10 10"/>
         <Button Content="Beenden" x:Name="close" Grid.Column="0" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" Click="close_Click" Width="380"/>
         <Button Content="Login" x:Name="login" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" Click="login_Click" Width="380"/>
     </Grid>

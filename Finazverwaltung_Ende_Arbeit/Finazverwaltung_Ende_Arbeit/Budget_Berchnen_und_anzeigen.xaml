@@ -30,8 +30,8 @@
         <TextBox Grid.Row="3" Grid.Column="1" x:Name="gesamtausgaben" Margin="10 10 10 10"/>
         <Label Content="Budget:" Grid.Row="4" FontSize="20" FontStyle="Italic" HorizontalAlignment="Center" VerticalAlignment="Center"/>
         <TextBox Grid.Row="4" Grid.Column="1" x:Name="budget" Margin="10 10 10 10"/>
-        <Button Content="Budget berechnen" Grid.Row="5" x:Name="budget_berechnen" Grid.ColumnSpan="2" Margin="10 10 10 10"/>
-        <Button Content="Budget Änderung speichern" x:Name="budegt_aenderung_speichern" Grid.Row="6" Grid.ColumnSpan="2" Margin="10 10 10 10"/>
-        <Button Content="Zurück" x:Name="zurueck" Grid.Row="7" Margin="10 10 10 10" Grid.ColumnSpan="2"/>
+        <Button Content="Budget berechnen" Grid.Row="5" x:Name="budget_berechnen" Grid.ColumnSpan="2" Margin="10 10 10 10" Click="budget_berechnen_Click"/>
+        <Button Content="Budget Änderung speichern" x:Name="budegt_aenderung_speichern" Grid.Row="6" Grid.ColumnSpan="2" Margin="10 10 10 10" Click="budegt_aenderung_speichern_Click"/>
+        <Button Content="Zurück" x:Name="zurueck" Grid.Row="7" Margin="10 10 10 10" Grid.ColumnSpan="2" Click="zurueck_Click"/>
     </Grid>
 </Window>

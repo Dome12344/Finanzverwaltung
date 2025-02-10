@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Finazverwaltungs Projekt\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit.csproj": {}
+    "D:\\Projekt\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit.csproj": {}
   },
   "projects": {
-    "F:\\Finazverwaltungs Projekt\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit.csproj": {
+    "D:\\Projekt\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Finazverwaltungs Projekt\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit.csproj",
+        "projectUniqueName": "D:\\Projekt\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit.csproj",
         "projectName": "Finazverwaltung_Ende_Arbeit",
-        "projectPath": "F:\\Finazverwaltungs Projekt\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit.csproj",
-        "packagesPath": "C:\\Users\\dominique\\.nuget\\packages\\",
-        "outputPath": "F:\\Finazverwaltungs Projekt\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit\\obj\\",
+        "projectPath": "D:\\Projekt\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit.csproj",
+        "packagesPath": "C:\\Users\\dominiqu.landsberger\\.nuget\\packages\\",
+        "outputPath": "D:\\Projekt\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dominique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dominiqu.landsberger\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,6 +50,24 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.36, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -69,7 +87,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

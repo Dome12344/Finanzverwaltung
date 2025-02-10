@@ -18,10 +18,10 @@
             <RowDefinition Height="50"></RowDefinition>
         </Grid.RowDefinitions>
         <Label Content="Auswahlbildschirm" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontStyle="Italic" FontSize="15"/>
-        <Button Content="Einnahme eingeben" x:Name="einnahme_eingeben" Grid.Row="2" Margin="10 10 10 10"/>
-        <Button Content="Ausgabe eingeben" x:Name="ausgabe_eingeben" Grid.Row="3" Margin="10 10 10 10"/>
-        <Button Content="Budget eingeben/neu zuteilen" x:Name="budeget_eingeben_neu_verteilen" Grid.Row="4" Margin="10 10 10 10"/>
-        <Button Content="Budget berechnen und anzeigen der Finanznen" x:Name="budget_berechnen_anzeigen_der_Finanzen" Grid.Row="5" Margin="10 10 10 10"/>
-        <Button Content="Logout" Grid.Row="7" x:Name="logout" Margin="10 10 10 10"/>
+        <Button Content="Einnahme eingeben" x:Name="einnahme_eingeben" Grid.Row="2" Margin="10 10 10 10" Click="einnahme_eingeben_Click"/>
+        <Button Content="Ausgabe eingeben" x:Name="ausgabe_eingeben" Grid.Row="3" Margin="10 10 10 10" Click="ausgabe_eingeben_Click"/>
+        <Button Content="Budget eingeben/neu zuteilen" x:Name="budeget_eingeben_neu_verteilen" Grid.Row="4" Margin="10 10 10 10" Click="budeget_eingeben_neu_verteilen_Click"/>
+        <Button Content="Budget berechnen und anzeigen der Finanznen" x:Name="budget_berechnen_anzeigen_der_Finanzen" Grid.Row="5" Margin="10 10 10 10" Click="budget_berechnen_anzeigen_der_Finanzen_Click"/>
+        <Button Content="Logout" Grid.Row="7" x:Name="logout" Margin="10 10 10 10" Click="logout_Click"/>
     </Grid>
 </Window>

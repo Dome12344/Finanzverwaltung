@@ -23,5 +23,17 @@ namespace Finazverwaltung_Ende_Arbeit
         {
             InitializeComponent();
         }
+
+        private void einnahmen_uebermitteln_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void zurueck_Click(object sender, RoutedEventArgs e)
+        {
+            Auswalbildschirm auswalbildschirm = new Auswalbildschirm();
+            this.Close();
+            auswalbildschirm.Show();
+        }
     }
 }
