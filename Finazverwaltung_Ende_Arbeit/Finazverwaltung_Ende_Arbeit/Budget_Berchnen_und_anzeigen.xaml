@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Finazverwaltung_Ende_Arbeit"
         mc:Ignorable="d"
-        Title="Budget_Berchnen_und_anzeigen" Height="520" Width="800">
+        Title="Budget_Berchnen_und_anzeigen" Height="670" Width="800">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
@@ -21,17 +21,40 @@
             <RowDefinition Height="50"/>
             <RowDefinition Height="50"/>
             <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
         </Grid.RowDefinitions>
         <Label Content="Budget berechnen und anzeigen der Finanzen" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontStyle="Italic"/>
-        <DataGrid Grid.Row="1" x:Name="finaztablle" Margin="10 10 10 10" Grid.ColumnSpan="2"/>
-        <Label Content="Gesamteinahmen:" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontStyle="Italic"/>
-        <TextBox Grid.Row="2" Grid.Column="1" x:Name="gesamteinahmen" Margin="10 10 10 10"/>
-        <Label Content="Gesamtausgaben:" Grid.Row="3" FontSize="20" FontStyle="Italic" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-        <TextBox Grid.Row="3" Grid.Column="1" x:Name="gesamtausgaben" Margin="10 10 10 10"/>
+        <DataGrid Grid.Row="1" Margin="10 10 10 10" Width="432" Grid.ColumnSpan="2"
+                  ItemsSource="{Binding }"
+                  AutoGenerateColumns="False"
+                  Height="150"
+                  CanUserAddRows="False"
+                  IsSynchronizedWithCurrentItem="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Einnahmen" Binding="{Binding Einnahmen}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Ausgaben" Binding="{Binding Ausgaben}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Budget" Binding="{Binding Budget}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Verbleibendesbudget" Binding="{Binding Verbleibendesbudget1}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Verbleibudgetnummer" Binding="{Binding Verbleibudgetnummer}"></DataGridTextColumn>
+            </DataGrid.Columns>
+            
+        </DataGrid>
+        <Label Content="Einahmen:" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontStyle="Italic"/>
+        <TextBox Grid.Row="2" Grid.Column="1" x:Name="Einahmen" Margin="10 10 10 10" Text="{Binding Einnahmen}"/>
+        <Label Content="Ausgaben:" Grid.Row="3" FontSize="20" FontStyle="Italic" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="3" Grid.Column="1" x:Name="Ausgaben" Margin="10 10 10 10" Text="{Binding Ausgaben}"/>
         <Label Content="Budget:" Grid.Row="4" FontSize="20" FontStyle="Italic" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-        <TextBox Grid.Row="4" Grid.Column="1" x:Name="budget" Margin="10 10 10 10"/>
-        <Button Content="Budget berechnen" Grid.Row="5" x:Name="budget_berechnen" Grid.ColumnSpan="2" Margin="10 10 10 10" Click="budget_berechnen_Click"/>
-        <Button Content="Budget Änderung speichern" x:Name="budegt_aenderung_speichern" Grid.Row="6" Grid.ColumnSpan="2" Margin="10 10 10 10" Click="budegt_aenderung_speichern_Click"/>
-        <Button Content="Zurück" x:Name="zurueck" Grid.Row="7" Margin="10 10 10 10" Grid.ColumnSpan="2" Click="zurueck_Click"/>
+        <TextBox Grid.Row="4" Grid.Column="1" x:Name="budget" Margin="10 10 10 10" Text="{Binding Budget}"/>
+        <Label Content="Verbleibendesbudget:" Grid.Row="5" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontStyle="Italic"></Label>
+        <TextBox Grid.Row="5" Grid.Column="5" x:Name="Verbleibendesbudget" Margin="10 10 10 10" Text="{Binding Verbleibendesbudget1}"/>
+        <Label Grid.Row="6" Grid.Column="0" Content="Verbleibendesbudgetnummer:" FontSize="20" FontStyle="Italic" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox x:Name="Verbleibendesbugetnummer" Grid.Row="6" Grid.Column="1" Margin="10 10 10 10" Text="{Binding Verbleibudgetnummer}"/>
+        <Label Content="Berechneter Verbleibbudget:" Grid.Row="7" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontStyle="Italic"/>
+        <TextBox Grid.Row="7" Grid.Column="1" Margin="10 10 10 10" x:Name="berechnung"/>
+        <Button Content="Verbleibendesbudget berechnen" Grid.Row="8" x:Name="verbleibendesbudget_berechnen" Grid.ColumnSpan="2" Margin="10 10 10 10" Click="verbleibendesbudget_berechnen_Click"/>
+        <Button Content="Verbleibendesbudget speichern" x:Name="verbleibendesbudget_speichern" Grid.Row="9" Grid.ColumnSpan="2" Margin="10 10 10 10" Click="verbleibendesbudget_speichern_Click"/>
+        <Button Content="Zurück" x:Name="zurueck" Grid.Row="10" Margin="10 10 10 10" Grid.ColumnSpan="2" Click="zurueck_Click"/>
     </Grid>
 </Window>

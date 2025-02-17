@@ -2042,23 +2042,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dominiqu.landsberger\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\dominique\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projekt\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit.csproj",
+      "projectUniqueName": "F:\\Projekt\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit.csproj",
       "projectName": "Finazverwaltung_Ende_Arbeit",
-      "projectPath": "E:\\Projekt\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit.csproj",
-      "packagesPath": "C:\\Users\\dominiqu.landsberger\\.nuget\\packages\\",
-      "outputPath": "E:\\Projekt\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit\\obj\\",
+      "projectPath": "F:\\Projekt\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit.csproj",
+      "packagesPath": "C:\\Users\\dominique\\.nuget\\packages\\",
+      "outputPath": "F:\\Projekt\\Finazverwaltung_Ende_Arbeit\\Finazverwaltung_Ende_Arbeit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\Program Files (x86)\\Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\dominiqu.landsberger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dominique\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2080,7 +2080,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -2122,7 +2128,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
