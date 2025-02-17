@@ -61,7 +61,7 @@ namespace Finazverwaltung_Ende_Arbeit
                 }
                 catch
                 {
-
+                    MessageBox.Show("Es Besteht kein Verbindung zu  SQL");
                 }
             }
         }

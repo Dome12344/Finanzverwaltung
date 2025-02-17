@@ -17,6 +17,7 @@
             <RowDefinition Height="50"/>
             <RowDefinition Height="50"/>
             <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="50"/>
         </Grid.RowDefinitions>
@@ -25,8 +26,10 @@
         <TextBox x:Name="budget" Grid.Row="1" Grid.Column="1" Margin="10 10 10 10"/>
         <Label Grid.Column="0" Grid.Row="2" Content="Budgetnummer:" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25" FontStyle="Italic"/>
         <TextBox Grid.Column="1" Grid.Row="2" Margin="10 10 10 10" x:Name="budgetnummer"/>
-        <Button Content="Budget Übermitteln" x:Name="budget_uebermitteln" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="3" Margin="10 10 10 10" Click="budget_uebermitteln_Click"/>
-        <Button Content="Budget Änderung Übermitteln" x:Name="budget_aenderung_uebermitteln" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="4" Margin="10 10 10 10" Click="budget_aenderung_uebermitteln_Click"/>
-        <Button Content="Zurück" x:Name="zurueck" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="6" Margin="10 10 10 10" Click="zurueck_Click"/>
+        <Label Content="Verbleibudgetnummer" Grid.Row="3" Grid.Column="0" FontSize="25" FontStyle="Italic" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Button Content="Budget Übermitteln" x:Name="budget_uebermitteln" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="4" Margin="10 10 10 10" Click="budget_uebermitteln_Click"/>
+        <TextBox Grid.Row="3" Grid.Column="1" x:Name="Verbleibudgetnummer" Margin="10 10 10 10"/>
+        <Button Content="Budget Änderung Übermitteln" x:Name="budget_aenderung_uebermitteln" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="5" Margin="10 10 10 10" Click="budget_aenderung_uebermitteln_Click"/>
+        <Button Content="Zurück" x:Name="zurueck" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="7" Margin="10 10 10 10" Click="zurueck_Click"/>
     </Grid>
 </Window>
