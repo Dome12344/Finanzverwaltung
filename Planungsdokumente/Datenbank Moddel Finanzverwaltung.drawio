@@ -1,52 +1,52 @@
-<mxfile host="Electron" modified="2024-11-14T11:53:11.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="4giH2J4dJwBid9fRBj-s" version="22.0.3" type="device">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.14">
   <diagram name="Seite-1" id="GcwQWnP7xBJ_4kQbS8rm">
-    <mxGraphModel dx="1247" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1425" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-1" value="Mitarbeiter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-1" value="Mitarbeiter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-2" value="Firma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-2" value="Firma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-3" value="Einahmen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-3" value="Einahmen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-4" value="Ausgaben" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-4" value="Ausgaben" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-5" value="Kennzahlen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-5" value="Kennzahlen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="439" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-6" value="Finazverwaltung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-6" value="Finazverwaltung" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-7" value="Arbeitet" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-7" value="Arbeitet" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="310" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-1" target="HaEO-w3vZEoRvjeN49cU-7">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-1" target="HaEO-w3vZEoRvjeN49cU-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="450" as="sourcePoint" />
             <mxPoint x="270" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-2" target="HaEO-w3vZEoRvjeN49cU-7">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-2" target="HaEO-w3vZEoRvjeN49cU-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="450" as="sourcePoint" />
             <mxPoint x="270" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-10" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-10" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-11" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-11" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-12" value="&lt;div&gt;&lt;u&gt;&amp;nbsp;PR:MitarbeiterId&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; Mitarbeiternummer&lt;/div&gt;&lt;div&gt;&amp;nbsp; Vorname&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; Nachname&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; Benutzername&lt;/div&gt;&lt;div&gt;&amp;nbsp; Passwort&lt;/div&gt;&lt;div&gt;&amp;nbsp; Email&lt;/div&gt;&lt;div&gt;&amp;nbsp; Telefonnummer&lt;/div&gt;&lt;div&gt;&amp;nbsp; Diensthandynummer&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-12" value="&lt;div&gt;&lt;u&gt;&amp;nbsp;PR:MitarbeiterId&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; Mitarbeiternummer&lt;/div&gt;&lt;div&gt;&amp;nbsp; Vorname&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; Nachname&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; Benutzername&lt;/div&gt;&lt;div&gt;&amp;nbsp; Passwort&lt;/div&gt;&lt;div&gt;&amp;nbsp; Email&lt;/div&gt;&lt;div&gt;&amp;nbsp; Telefonnummer&lt;/div&gt;&lt;div&gt;&amp;nbsp; Diensthandynummer&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="30" width="210" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-12" target="HaEO-w3vZEoRvjeN49cU-1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-12" target="HaEO-w3vZEoRvjeN49cU-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="450" as="sourcePoint" />
             <mxPoint x="140" y="400" as="targetPoint" />
@@ -56,112 +56,109 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-14" value="Arbeite in der Abteilung" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-14" value="Arbeite in der Abteilung" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="445" y="410" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-2" target="HaEO-w3vZEoRvjeN49cU-14">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-2" target="HaEO-w3vZEoRvjeN49cU-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="450" as="sourcePoint" />
             <mxPoint x="140" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-6" target="HaEO-w3vZEoRvjeN49cU-14">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-6" target="HaEO-w3vZEoRvjeN49cU-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="450" as="sourcePoint" />
             <mxPoint x="140" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-17" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-17" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-18" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-18" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-19" value="Verwaltung der Finazen" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-19" value="Verwaltung der Finazen" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="640" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-6" target="HaEO-w3vZEoRvjeN49cU-19">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-6" target="HaEO-w3vZEoRvjeN49cU-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="740" as="sourcePoint" />
             <mxPoint x="550" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-5" target="HaEO-w3vZEoRvjeN49cU-19">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-5" target="HaEO-w3vZEoRvjeN49cU-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="740" as="sourcePoint" />
             <mxPoint x="550" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-22" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-22" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="580" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-23" value="m" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-23" value="m" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="499" y="760" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-24" value="Brechnung der Gesamteinnahmen" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-24" value="Brechnung der Gesamteinnahmen" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="780" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-25" value="Brechnung der Gesamtausgaben" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-25" value="Brechnung der Gesamtausgaben" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="780" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-26" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-3" target="HaEO-w3vZEoRvjeN49cU-24">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-26" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-3" target="HaEO-w3vZEoRvjeN49cU-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="740" as="sourcePoint" />
             <mxPoint x="260" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-24" target="HaEO-w3vZEoRvjeN49cU-5">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-24" target="HaEO-w3vZEoRvjeN49cU-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="740" as="sourcePoint" />
             <mxPoint x="260" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-25" target="HaEO-w3vZEoRvjeN49cU-4">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-25" target="HaEO-w3vZEoRvjeN49cU-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="740" as="sourcePoint" />
             <mxPoint x="570" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-29" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-5" target="HaEO-w3vZEoRvjeN49cU-25">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-29" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-5" target="HaEO-w3vZEoRvjeN49cU-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="830" as="sourcePoint" />
             <mxPoint x="570" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-30" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-30" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="790" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-31" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-31" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="379" y="790" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-32" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-32" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="800" y="790" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-33" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-33" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="790" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-34" value="&lt;div&gt;&lt;u&gt;PR:AuagebenID&amp;nbsp;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Ausgaben&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-34" value="&lt;div&gt;&lt;u&gt;PR:AuagebenID&amp;nbsp;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Ausgaben&lt;/div&gt;&lt;div&gt;Ausgaben Nummeer&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="650" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-35" value="&lt;div&gt;&lt;u&gt;PR:FinanzverwaltungID&amp;nbsp;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;FR:EH_Einnahmen_VW&amp;nbsp;&lt;/span&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;&amp;nbsp;FR:AH_Ausgaben_VW&amp;nbsp;&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;&amp;nbsp;FR:KZ_Kennzahken_VW&lt;/u&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-35" value="&lt;div&gt;&lt;u&gt;PR:FinanzverwaltungID&amp;nbsp;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;FR:EH_Einnahmen_VW&amp;nbsp;&lt;/span&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;&amp;nbsp;FR:AH_Ausgaben_VW&amp;nbsp;&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="485" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-36" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="160" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-38" value="&lt;div&gt;&lt;u&gt;PR:KennzahlenID&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Gesamteinnahmen&lt;/div&gt;&lt;div&gt;Gesamtausgaben&amp;nbsp;&lt;/div&gt;&lt;div&gt;Budget&amp;nbsp;&lt;/div&gt;&lt;div&gt;FR:EH_Einnahmen&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FR:AH_Ausgaben&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-38" value="&lt;div&gt;&lt;u&gt;PR:Verbleibendesbudget ID&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Einnahmen&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Ausgaben&amp;nbsp;&lt;/div&gt;&lt;div&gt;Budget&amp;nbsp;&lt;/div&gt;&lt;div&gt;Verbleibendesbudget Nummer&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="910" width="190" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-39" value="&lt;div&gt;&lt;u&gt;PR:EinnahmenID&amp;nbsp;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Einnahmen&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-39" value="&lt;div&gt;&lt;u&gt;PR:EinnahmenID&amp;nbsp;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Einnahmen&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="930" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-39" target="HaEO-w3vZEoRvjeN49cU-3">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-39" target="HaEO-w3vZEoRvjeN49cU-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="590" as="sourcePoint" />
             <mxPoint x="120" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-41" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-38" target="HaEO-w3vZEoRvjeN49cU-5">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-41" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-38" target="HaEO-w3vZEoRvjeN49cU-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="590" as="sourcePoint" />
             <mxPoint x="120" y="540" as="targetPoint" />
@@ -171,46 +168,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-4" target="HaEO-w3vZEoRvjeN49cU-34">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-4" target="HaEO-w3vZEoRvjeN49cU-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="590" as="sourcePoint" />
             <mxPoint x="640" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-43" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-6" target="HaEO-w3vZEoRvjeN49cU-35">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-43" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-6" target="HaEO-w3vZEoRvjeN49cU-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="590" as="sourcePoint" />
             <mxPoint x="640" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-2" target="HaEO-w3vZEoRvjeN49cU-36">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="590" as="sourcePoint" />
-            <mxPoint x="640" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-45" value="Budget verwalten" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-45" value="Budget verwalten" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="900" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-49" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-45" target="HaEO-w3vZEoRvjeN49cU-5">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-49" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-45" target="HaEO-w3vZEoRvjeN49cU-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="830" as="sourcePoint" />
             <mxPoint x="670" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-50" value="&lt;div&gt;&lt;u&gt;PR:BudgetwertID&amp;nbsp;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Budget&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-50" value="&lt;div&gt;&lt;u&gt;PR:BudgetwertID&amp;nbsp;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Budget&amp;nbsp;&lt;/div&gt;&lt;div&gt;Budget Nummer&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="1089" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-51" value="Budget" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-51" value="Budget" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-51" target="HaEO-w3vZEoRvjeN49cU-45">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-51" target="HaEO-w3vZEoRvjeN49cU-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="1130" as="sourcePoint" />
             <mxPoint x="670" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-53" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaEO-w3vZEoRvjeN49cU-51" target="HaEO-w3vZEoRvjeN49cU-50">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-53" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HaEO-w3vZEoRvjeN49cU-51" target="HaEO-w3vZEoRvjeN49cU-50" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="1130" as="sourcePoint" />
             <mxPoint x="670" y="1080" as="targetPoint" />
@@ -219,10 +210,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-54" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-54" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="499" y="990" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HaEO-w3vZEoRvjeN49cU-55" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HaEO-w3vZEoRvjeN49cU-55" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="499" y="850" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
