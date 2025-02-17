@@ -1,0 +1,9 @@
+﻿<Application x:Class="Finazverwaltung_Ende_Arbeit.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Finazverwaltung_Ende_Arbeit"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
