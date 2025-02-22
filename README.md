@@ -14,3 +14,6 @@ Um jetzt Ausgaben hinzufügen musss eine Ausgabennummer und die Verbleibendes Bu
 Bei den Einnahmen muss man nur Verbleibendes Budgetnummer noch angeben um die Einnahmen zu übermittlen.
 Bei Verbleibendes Budget berechnen muss man auf die Spalte klicken, dann suf den Button Berechnen klicken um es berechnen zu lassen
 und bei speicher muss im Feld von Verbleibendes Budget hinter die ersten 2 Zahlen ein (,) gesetzet werden um die Cent mit zu Übermittel.
+
+
+![image](https://github.com/user-attachments/assets/8ffcd3ae-ba38-4fa3-be4e-a3b699716e3b)
