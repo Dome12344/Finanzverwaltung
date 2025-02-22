@@ -17,3 +17,8 @@ und bei speicher muss im Feld von Verbleibendes Budget hinter die ersten 2 Zahle
 
 
 ![image](https://github.com/user-attachments/assets/8ffcd3ae-ba38-4fa3-be4e-a3b699716e3b)
+![image](https://github.com/user-attachments/assets/185c2d79-b03b-461a-ae24-6728efa1cc3c)
+![image](https://github.com/user-attachments/assets/e6fa70c5-74a3-4b1c-8b88-c5b975d4a22d)
+![image](https://github.com/user-attachments/assets/309dd061-09d7-43f0-bb04-f9e07aaca7cb)
+![image](https://github.com/user-attachments/assets/9800b150-05a8-4646-a064-8aced828fd05)
+![image](https://github.com/user-attachments/assets/b3ed2745-4e88-4390-aeae-2d3cc3341e86)
